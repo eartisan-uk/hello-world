@@ -1,4 +1,4 @@
 # hello-world
-eArtisan's Shiny New Repository 
+e:artisan's Shiny New Repository 
 
 This is to test how the branching features work. 
